@@ -1,7 +1,7 @@
 # sqlalchemy-challenge
 
 
-Climate analysis -  Honolulu, Hawaii.
+Climate Analysis -  Honolulu, Hawaii.
 
 
 The Climate Data was analyzed and explored using 
